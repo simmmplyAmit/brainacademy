@@ -3,15 +3,117 @@
     {
       "id": 1,
       "title": "Digital Marketting course 1",
-      "description": "This is our first digital marketting course in a series of courses",
+      "shortDesc": "This is our first digital marketting course in a series of courses",
       "previewVideo": "Preview video url 1",
-      "previewVideoThumbnail": "Preview video thumbnail 1"
+      "previewVideoThumbnail": "Preview video thumbnail 1",
+	  "previewImage": "https:/gdurl.com/Y034"
+	  "longDesc": "html",
+	  "price": "",
+	  "horizontalPointers":[
+		{
+			"icon": "",
+			"key": "",
+			"value": ""
+		},
+		{
+			"icon": "",
+			"key": "",
+			"value": ""
+		},
+		{
+			"icon": "",
+			"key": "",
+			"value": ""
+		}
+	  ],
+	  "verticalPointers":[
+		{
+			"icon": "",
+			"key": "",
+			"value": ""
+		},
+		{
+			"icon": "",
+			"key": "",
+			"value": ""
+		},
+		{
+			"icon": "",
+			"key": "",
+			"value": ""
+		},
+		{
+			"icon": "",
+			"key": "",
+			"value": ""
+		},
+		{
+			"icon": "",
+			"key": "",
+			"value": ""
+		},
+		{
+			"icon": "",
+			"key": "",
+			"value": ""
+		},
+		{
+			"icon": "",
+			"key": "",
+			"value": ""
+		},
+		{
+			"icon": "",
+			"key": "",
+			"value": ""
+		},
+		{
+			"icon": "",
+			"key": "",
+			"value": ""
+		}
+	  ],
+	  "highlights": [
+		{
+			"text": "",
+			"icon": ""
+		},
+		{
+			"text": "",
+			"icon": ""
+		},
+		{
+			"text": "",
+			"icon": ""
+		}
+	  ],
+	  "instructors": [
+		{
+			"name": "",
+			"image": "",
+			"designation": "",
+			"brief": ""
+		},
+		{
+			"name": "",
+			"image": "",
+			"designation": "",
+			"brief": ""
+		},
+		{
+			"name": "",
+			"image": "",
+			"designation": "",
+			"brief": ""
+		}
+	  ],
+	  "syllabus": "html"
     },
     
     {
       "id": 2,
       "title": "Digital Marketting course 2",
-      "description": "This is our second digital marketting course in a series of courses",
+      "shortDesc": "This is our second digital marketting course in a series of courses",
       "previewVideo": "preview video url 2",
       "previewVideoThumbnail": "Preview video thumbnail 2"
     }
